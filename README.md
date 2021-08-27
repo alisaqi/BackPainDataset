@@ -14,4 +14,6 @@ The symptoms and severity of lower back pain vary widely, despite the fact that 
 
 This data set is about identifying a person is abnormal or normal using collected physical spine details/data.
 
+By the SVC model, we finally reached 87.1% accuracy.
+
 Also, in this dataset, we tried some clustering methods as well.
