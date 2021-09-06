@@ -12,8 +12,7 @@ The lower back can be painful due to a variety of problems related to the comple
 
 The symptoms and severity of lower back pain vary widely, despite the fact that lower back pain is extremely common. A simple lower back muscle strain might be painful enough to require an emergency room visit, while a degenerating disc might cause only mild discomfort.
 
-This data set is about identifying a person is abnormal or normal using collected physical spine details/data.
 
-By the SVC model, we finally reached 87.1% accuracy.
+By the SVC model, we finally reached 87.1% accuracy in classifying Human Lower Back Pain symptoms.
 
 Also, in this dataset, we tried some clustering methods as well.
